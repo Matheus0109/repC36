@@ -1,1 +1,2 @@
-# repC36
+# synchronousBallMovement
+Ball moving synchronously
